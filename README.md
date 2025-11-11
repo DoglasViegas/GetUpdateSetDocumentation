@@ -88,6 +88,3 @@ Uma ferramenta para gerar **documentação automatizada** de Update Sets no Serv
 
 ---
 
-### 📖 License
-Este projeto é **open-source** e pode ser usado como base para personalizações em outros ambientes ServiceNow.
-
